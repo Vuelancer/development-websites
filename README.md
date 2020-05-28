@@ -28,5 +28,5 @@
 * [Heroku](https://heroku.com)
 * [Netlify](https://netlify.com)
 * [Firebase](https://firebase.com)
-* [Zeit](https://zeit.co)
+* [Vercel](https://vercel.com)
 
